@@ -4,3 +4,5 @@ seaborn
 tqdm
 gymnasium
 notebook
+swig
+gymnasium[box2d]
