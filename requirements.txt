@@ -6,3 +6,5 @@ gymnasium
 notebook
 swig
 gymnasium[box2d]
+gymnasium[classic-control]
+gymnasium[mujoco]
